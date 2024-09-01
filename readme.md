@@ -35,7 +35,7 @@ select one song at a time, right-clicking, and removing from playlist.
 ### Built With
 <div align="center">
 
-![Spotify](https://img.shields.io/badge/Spotify-%21DB954.svg?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Spotify](https://img.shields.io/badge/spotify-%21DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
